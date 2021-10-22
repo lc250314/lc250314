@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laxminarayan Chintake
 - 👀 I’m interested in Java, JavaScript and Open Source technologies
 - 🌱 I’m currently learning Cloud and ReactJS
-- 💞️ I’m looking to collaborate on JavaScript open source technologies
+- 💞️ I’m looking to collaborate on JavaScript and open source technologies
 - 📫 How to reach me laxminarayan.lexicon@gmail.com
 
 <!---
